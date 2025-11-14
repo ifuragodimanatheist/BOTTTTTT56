@@ -1,15 +1,6 @@
 import discord
 from discord.ext import commands
-import json
-import random
-import asyncio
 
-# === PASTE YOUR BOT TOKEN HERE ===
-BOT_TOKEN = "MTQzODQ2MDkyMzQxNjI4NTI1OA.GTXbt_.-Y6sWItMA7mXWOVaMY8TIxbU77bl0j0hOUyJdY"
-# ==================================
-
-# === BOT OWNER ID ===
-BOT_OWNER_ID = 1242860102000836683  # Your Discord ID
 # ====================
 
 
